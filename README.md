@@ -1,3 +1,4 @@
+<img width="906" height="648" alt="Screenshot 2026-10-06 074248" src="https://github.com/user-attachments/assets/3c3c0ac1-83ea-4682-a6af-94633ef2366c" />
 # Facebook Groups Exporter (FBGroups2CSV)
 
 A Chrome Manifest V3 extension that collects visible Facebook group details and exports CSV or JSON.
